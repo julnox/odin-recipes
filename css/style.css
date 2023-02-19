@@ -1,5 +1,5 @@
 * {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Tahoma, sans-serif;
   text-align: center;
 }
 a{
@@ -17,10 +17,20 @@ div {
   width: 50%;
   margin: auto;
   border: 2px solid rgb(0, 0, 0);
-  border-radius: 30px;
+  border-radius: 10px;
   padding: 10px;
 }
 div p,
 div li {
   text-align: justify;
 }
+.description{
+  background-color: rgb(255, 255, 131);
+}
+.ingredients{
+  background-color: rgb(240, 148, 252);
+}
+.steps{
+  background-color: rgb(255, 185, 127);
+}
+
