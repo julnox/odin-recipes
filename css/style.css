@@ -2,3 +2,25 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
+a{
+  color:rgb(11, 117, 255);
+}
+img {
+  height: auto;
+  width: 350px;
+}
+h2 {
+  font-weight: 800;
+  font-size: 18px;
+}
+div {
+  width: 50%;
+  margin: auto;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 30px;
+  padding: 10px;
+}
+div p,
+div li {
+  text-align: justify;
+}
